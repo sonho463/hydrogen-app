@@ -1,4 +1,4 @@
-# Hydrogen App
+# Hydrogen App by Son Hong-su
 
 Hydrogen is a React framework and SDK that you can use to build fast and dynamic Shopify custom storefronts.
 
@@ -16,7 +16,7 @@ yarn
 yarn dev
 ```
 
-Remember to update `shopify.config.js` with your shop's domain and Storefront API token!
+`shopify.config.js` is updated by Son Hong-su.
 
 ## Previewing a production build
 
