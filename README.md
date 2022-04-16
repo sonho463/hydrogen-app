@@ -1,10 +1,12 @@
 # Hydrogen App by Son Hong-su
+This EC site is a demo site I created for a study session hosted by Over40 Web Club.
+This is created by Hydrogen and hosted by CLOUD FLARE.
+[Visit this site](https://sample-hydrogen.horumont.workers.dev/)
+[Slides used in the study session](https://www.canva.com/design/DAE7-Sx4SyA/l6wG0OS-XxMgqVJN8nWTwg/edit?utm_content=DAE7-Sx4SyA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Document used in the site construction demo(Notion)](https://chiseled-practice-bd3.notion.site/a5b8237442c04cf9b11a7085257781e6)
 
 Hydrogen is a React framework and SDK that you can use to build fast and dynamic Shopify custom storefronts.
-
 [Check out the docs](https://shopify.dev/custom-storefronts/hydrogen)
-
-[Visit this site](https://sample-hydrogen.horumont.workers.dev/)
 
 ## Getting started
 
