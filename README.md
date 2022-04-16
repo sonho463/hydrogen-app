@@ -1,3 +1,5 @@
+![thumbnail](thumbnail.jpeg)
+
 # Hydrogen App by Son Hong-su
 This EC site is a demo site I created for a study session hosted by Over40 Web Club.
 This is created by Hydrogen and hosted by CLOUD FLARE.
